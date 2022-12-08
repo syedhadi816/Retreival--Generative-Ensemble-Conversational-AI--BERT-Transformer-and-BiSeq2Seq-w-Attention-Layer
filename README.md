@@ -31,8 +31,8 @@ earth's oblate spheroid is a spheroidal.
 > Who is JK Rowling?  
 jk rowling is a british novelist best known for her work on the Harry potter series. she is also the author of the harry potter series of books.
 
-> I often have headaches.
-headaches are caused by stress, tension or prolonged tension. the most common cause of headaches is stress.
+> I often have headaches.  
+> headaches are caused by stress, tension or prolonged tension. the most common cause of headaches is stress.
 
 > How do I relieve stress?  
 meditation, yoga and regular exercise can relieve stress. if you talk to someone about your feelings exercise helps relieve stress.
