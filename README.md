@@ -1,4 +1,4 @@
-> ## [Read Paper Here](https://www.researchgate.net/publication/366121061_GERALD_A_Conversational_AI?_sg%5B0%5D=iPax574yiXoEvj4RvUuM-pJhZ1HkOgOsj63v45rUcLzrblohWMwyumlA815MgKZNe-_7hYfyrs08AN42QJI8dptp4iy778IKW11LPg9j.snGo4dGPwIEPAMnZ3uvErP0K46wxp8VSnEMBSQm2UFavuK0FVJrRxO-qVv9gOC3-9jLYr2rNB-rwOGrfFrnEzw)
+> # [Read Paper Here](https://www.researchgate.net/publication/366121061_GERALD_A_Conversational_AI?_sg%5B0%5D=iPax574yiXoEvj4RvUuM-pJhZ1HkOgOsj63v45rUcLzrblohWMwyumlA815MgKZNe-_7hYfyrs08AN42QJI8dptp4iy778IKW11LPg9j.snGo4dGPwIEPAMnZ3uvErP0K46wxp8VSnEMBSQm2UFavuK0FVJrRxO-qVv9gOC3-9jLYr2rNB-rwOGrfFrnEzw)
 
 # Gerald - A Retreival and Generative Ensemble for Conversational AI - with BERT Transformer and T5 Conditional Generator
 
